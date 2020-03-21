@@ -1,0 +1,84 @@
+h2 {
+	text-shadow: 3px 2px red;
+}
+#outer {
+	  background: linear-gradient(to top, #c31432, #240b36);
+}
+#header {
+	height: 90px;
+	border: 3px ridge red;
+	background: linear-gradient(to right, #c31432, #240b36);
+
+}
+#main-wrapper {
+	
+	margin: 10px 3px 0 3px;
+
+}
+#main {
+	background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+	border: 3px groove green;
+	width: 90%;
+	margin: auto;
+	min-height: 500px;
+}
+#footer {
+	position: relative;
+	min-height: 90px;
+	clear: both;
+	padding: 10px;
+	margin: 10px 0;
+	border: 3px ridge green;
+}
+#login {
+	padding: 10px;
+	border: 1px ridge;
+	width:500px;
+	height: 300px;
+	margin:70px auto; 
+	border-radius: 20px;
+	background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
+
+.form-field{
+		margin: 10px;
+		width: 300px;
+		height: 20px;
+		border: 3px groove green;
+		border-radius: 3px;
+
+}
+#login sub{
+	border: 10px groove green;
+}
+.form-button {
+	font-family: cursive;
+	font-size: 16px;
+	
+	height: 30px;
+	border: 12px;
+	background: linear-gradient(to right, #240b36, #c31432);
+}
+a {
+	color: cyan;
+	text-decoration: none;
+}
+#list table {
+	width: 1000px;
+	 background: linear-gradient(to top, #870000, #190a05);
+	border: 4px ridge red;
+	border-radius: 7px;
+	text-align: center;
+	margin: 7px;
+}
+#list th {
+	color: lightgreen;
+	font-size: 22px;
+	border: 2px solid #0066ff;
+}
+#list td{
+	font-size: 20px;
+	color:skyblue;
+	font-family: sans-serif;
+	border: 2px groove green;
+}
